@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://barfflow.com/</loc></url>
-  <url><loc>https://barfflow.com/faq/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://barfflow.com/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://barfflow.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://barfflow.com/en/" />
+  </url>
+  <url>
+    <loc>https://barfflow.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://barfflow.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://barfflow.com/en/" />
+  </url>
+  <url>
+    <loc>https://barfflow.com/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://barfflow.com/faq/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://barfflow.com/en/faq/" />
+  </url>
+  <url>
+    <loc>https://barfflow.com/en/faq/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://barfflow.com/faq/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://barfflow.com/en/faq/" />
+  </url>
 </urlset>

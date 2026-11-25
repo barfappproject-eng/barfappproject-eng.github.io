@@ -1,52 +1,44 @@
 WEBVTT
 
-00:00:01.050 --> 00:00:03.479
-Domowy BARF to dużo liczenia.
+00:00:01.050 --> 00:00:03.927
+Domowy BARF dla kota to dużo liczenia.
 
-00:00:03.479 --> 00:00:05.836
+00:00:03.927 --> 00:00:06.284
 barf.flow bierze je na siebie.
 
-00:00:07.850 --> 00:00:09.998
-Zaczynasz od profilu kota.
+00:00:07.983 --> 00:00:10.514
+Zaczynasz od kilku pytań o kota.
 
-00:00:09.998 --> 00:00:12.752
+00:00:10.514 --> 00:00:13.268
 Waga, kondycja, liczba karmień.
 
-00:00:12.752 --> 00:00:16.961
+00:00:13.268 --> 00:00:17.477
 Aplikacja proponuje dzienną
 ilość kalorii jako punkt wyjścia.
 
-00:00:18.317 --> 00:00:23.425
-Przepis układasz w czterech krokach,
-ze 145 surowych składników.
+00:00:18.817 --> 00:00:22.810
+Wybierasz gotowy plan albo
+układasz własny, krok po kroku.
 
-00:00:23.425 --> 00:00:30.533
-barf.flow sprawdza 42 składniki odżywcze
-według norm NRC i pokazuje, czego brakuje.
+00:00:22.810 --> 00:00:28.326
+barf.flow liczy gramy i pokazuje,
+czego brakuje względem norm NRC.
 
-00:00:33.217 --> 00:00:35.167
-Z przepisu powstaje plan.
+00:00:30.017 --> 00:00:33.362
+Z planu powstaje lista
+zakupów na cały okres.
 
-00:00:35.167 --> 00:00:37.180
-Masz listę zakupów na cały plan,
+00:00:33.362 --> 00:00:36.879
+Wiesz, ile kupić i jak
+podzielić wszystko na porcje.
 
-00:00:37.180 --> 00:00:40.480
-podział na porcje i datę,
-do kiedy je zamrozić.
+00:00:38.717 --> 00:00:43.974
+Na ekranie Dziś odhaczasz karmienia,
+a barf.flow może przypomnieć o rozmrażaniu.
 
-00:00:44.917 --> 00:00:48.859
-Ekran Dziś pokazuje karmienia
-i przypomina o rozmrażaniu.
+00:00:43.974 --> 00:00:48.521
+Zapisujesz też obserwacje i widzisz
+wagę oraz apetyt na wykresach.
 
-00:00:48.859 --> 00:00:51.118
-Zapisujesz też, co zauważasz u kota,
-
-00:00:51.118 --> 00:00:54.276
-a w analizie widzisz
-te wpisy obok przepisu.
-
-00:00:55.983 --> 00:00:58.771
+00:00:50.217 --> 00:00:53.005
 Ty decydujesz, co trafia do miski.
-
-00:00:58.771 --> 00:01:01.686
-barf.flow liczy, planuje i przypomina.
